@@ -1,0 +1,115 @@
+Starting training...
+Completed 1/724, with current train_loss:  9.2220e-05,
+ current results:{'f5': 0.7573015464427856, 'recall': 1.0, 'precision': 0.10715326340326341}
+Completed 201/724, with current train_loss:  9.6862e-06,
+ current results:{'f5': 1.0, 'recall': 1.0, 'precision': 1.0}
+Completed 401/724, with current train_loss:  1.0302e-05,
+ current results:{'f5': 0.7572815533980582, 'recall': 0.75, 'precision': 1.0}
+Completed 601/724, with current train_loss:  9.7343e-06,
+ current results:{'f5': 0.9196141479099676, 'recall': 0.9166666666666666, 'precision': 1.0}
+Completed 724/724, with current train_loss:  1.2926e-05,
+ current results:{'f5': 1.0, 'recall': 1.0, 'precision': 1.0}
+
+Epoch 1/5: Average train_loss =  1.7887e-06, average train_score = {'f5': 0.9069239026625755, 'recall': 0.9136423802946586, 'precision': 0.9153994696985028}
+
+Starting to validate
+********** For Validation Set **********
+Completed 1/128, with current val_loss:  1.1929e-05,
+ current results:{'f5': 0.8387096774193548, 'recall': 0.8333333333333333, 'precision': 1.0}
+********** For Validation Set **********
+Completed 128/128, with current val_loss:  1.1006e-05,
+ current results:{'f5': 0.7844827586206895, 'recall': 0.7777777777777777, 'precision': 1.0}
+Average val_loss:  1.1354e-06, avgerage val_score = 0.9020369408828613
+Epoch time: 24m 41s
+Starting training...
+Completed 1/724, with current train_loss:  1.6771e-05,
+ current results:{'f5': 1.0, 'recall': 1.0, 'precision': 1.0}
+Completed 201/724, with current train_loss:  9.4129e-06,
+ current results:{'f5': 0.9095295536791315, 'recall': 0.90625, 'precision': 1.0}
+Completed 401/724, with current train_loss:  1.2999e-05,
+ current results:{'f5': 0.8387096774193548, 'recall': 0.8333333333333333, 'precision': 1.0}
+Completed 601/724, with current train_loss:  1.0479e-05,
+ current results:{'f5': 1.0, 'recall': 1.0, 'precision': 1.0}
+Completed 724/724, with current train_loss:  1.5993e-05,
+ current results:{'f5': 0.3421052631578947, 'recall': 0.3333333333333333, 'precision': 1.0}
+
+Epoch 2/5: Average train_loss =  1.2181e-06, average train_score = {'f5': 0.913532321081982, 'recall': 0.9106641344383047, 'precision': 0.9994820441988951}
+
+Starting to validate
+********** For Validation Set **********
+Completed 1/128, with current val_loss:  1.1442e-05,
+ current results:{'f5': 0.8387096774193548, 'recall': 0.8333333333333333, 'precision': 1.0}
+********** For Validation Set **********
+Completed 128/128, with current val_loss:  1.0752e-05,
+ current results:{'f5': 0.7844827586206895, 'recall': 0.7777777777777777, 'precision': 1.0}
+Average val_loss:  1.1123e-06, avgerage val_score = 0.9020369408828613
+Epoch time: 21m 55s
+Starting training...
+Completed 1/724, with current train_loss:  6.1387e-06,
+ current results:{'f5': 1.0, 'recall': 1.0, 'precision': 1.0}
+Completed 201/724, with current train_loss:  8.6033e-06,
+ current results:{'f5': 0.6855983772819473, 'recall': 0.6770833333333333, 'precision': 1.0}
+Completed 401/724, with current train_loss:  1.0630e-05,
+ current results:{'f5': 1.0, 'recall': 1.0, 'precision': 1.0}
+Completed 601/724, with current train_loss:  1.1864e-05,
+ current results:{'f5': 1.0, 'recall': 1.0, 'precision': 1.0}
+Completed 724/724, with current train_loss:  1.8164e-05,
+ current results:{'f5': 1.0, 'recall': 1.0, 'precision': 1.0}
+
+Epoch 3/5: Average train_loss =  1.2195e-06, average train_score = {'f5': 0.9143227015068888, 'recall': 0.9114698434622465, 'precision': 0.9995683701657458}
+
+Starting to validate
+********** For Validation Set **********
+Completed 1/128, with current val_loss:  9.6663e-06,
+ current results:{'f5': 0.8387096774193548, 'recall': 0.8333333333333333, 'precision': 1.0}
+********** For Validation Set **********
+Completed 128/128, with current val_loss:  9.0846e-06,
+ current results:{'f5': 0.7844827586206895, 'recall': 0.7777777777777777, 'precision': 1.0}
+Average val_loss:  9.4907e-07, avgerage val_score = 0.9020228798971214
+Epoch time: 21m 48s
+Starting training...
+Completed 1/724, with current train_loss:  1.0468e-05,
+ current results:{'f5': 0.7572815533980582, 'recall': 0.75, 'precision': 1.0}
+Completed 201/724, with current train_loss:  8.0253e-06,
+ current results:{'f5': 0.9196141479099676, 'recall': 0.9166666666666666, 'precision': 1.0}
+Completed 401/724, with current train_loss:  1.0765e-05,
+ current results:{'f5': 0.9196141479099676, 'recall': 0.9166666666666666, 'precision': 1.0}
+Completed 601/724, with current train_loss:  6.0576e-06,
+ current results:{'f5': 0.9196141479099676, 'recall': 0.9166666666666666, 'precision': 1.0}
+Completed 724/724, with current train_loss:  2.5435e-05,
+ current results:{'f5': 1.0, 'recall': 1.0, 'precision': 1.0}
+
+Epoch 4/5: Average train_loss =  1.2140e-06, average train_score = {'f5': 0.9143331798295222, 'recall': 0.911469843462246, 'precision': 0.9993957182320442}
+
+Starting to validate
+********** For Validation Set **********
+Completed 1/128, with current val_loss:  1.1864e-05,
+ current results:{'f5': 0.8387096774193548, 'recall': 0.8333333333333333, 'precision': 1.0}
+********** For Validation Set **********
+Completed 128/128, with current val_loss:  1.1037e-05,
+ current results:{'f5': 0.7844827586206895, 'recall': 0.7777777777777777, 'precision': 1.0}
+Average val_loss:  1.1435e-06, avgerage val_score = 0.9020221926231358
+Epoch time: 21m 59s
+Starting training...
+Completed 1/724, with current train_loss:  7.4558e-06,
+ current results:{'f5': 0.8387096774193548, 'recall': 0.8333333333333333, 'precision': 1.0}
+Completed 201/724, with current train_loss:  6.4399e-06,
+ current results:{'f5': 1.0, 'recall': 1.0, 'precision': 1.0}
+Completed 401/724, with current train_loss:  7.2405e-06,
+ current results:{'f5': 0.9397590361445782, 'recall': 0.9375, 'precision': 1.0}
+Completed 601/724, with current train_loss:  5.9830e-06,
+ current results:{'f5': 0.9196141479099676, 'recall': 0.9166666666666666, 'precision': 1.0}
+Completed 724/724, with current train_loss:  1.5245e-05,
+ current results:{'f5': 0.3421052631578947, 'recall': 0.3333333333333333, 'precision': 1.0}
+
+Epoch 5/5: Average train_loss =  1.2230e-06, average train_score = {'f5': 0.913539222471489, 'recall': 0.910664134438305, 'precision': 0.9993957182320442}
+
+Starting to validate
+********** For Validation Set **********
+Completed 1/128, with current val_loss:  1.1193e-05,
+ current results:{'f5': 0.8387096774193548, 'recall': 0.8333333333333333, 'precision': 1.0}
+********** For Validation Set **********
+Completed 128/128, with current val_loss:  1.0518e-05,
+ current results:{'f5': 0.7844827586206895, 'recall': 0.7777777777777777, 'precision': 1.0}
+Average val_loss:  1.0919e-06, avgerage val_score = 0.9020369408828613
+Epoch time: 23m 45s
